@@ -13,12 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: matt schaller
+email: mschaller3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Matt and I work in the web biz.  I've spent the last 10 years of my life dedicated
+  to the web, working with world-class brands such as Hugo Boss, L'Oreal, and
+  National Geographic.  I am currently employed by the lovely folks at
+  Watsco Inc, where I manage the development of one of their flagship ecommerce 
+  platforms.  
+
+  Technical proficiencies include frontend (html/css/js), backend (php,nodejs), data (mysql, mongodb, etl), api (rest/soap), and devops (docker, git, jenkins/travis-ci).  
+  Experienced in product management (agile/kanban), team management (internal/agent), and sales engineering.
+  Hands on experience with analytics (new relic, ga, coremetric, sitecatalyst), testing (ab/mvt, load).
+  
+  Hobbies include travel, web, iot, aws, android.
+
+  built with [jekyll](https://github.com/jekyll/jekyll) & [minimal](https://github.com/orderedlist/minimal)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rnatt
