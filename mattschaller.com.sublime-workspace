@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rout",
+				"Router"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matt/www/mattschaller.github.io"
+	],
+	"file_history":
+	[
+		"/Users/matt/www/my-app/src/App.js",
+		"/Users/matt/www/my-app/src/App.test.js",
+		"/Users/matt/www/my-app/public/manifest.json",
+		"/Users/matt/www/my-app/src/App.js.example",
+		"/Users/matt/www/my-app/src/index.js",
+		"/Users/matt/Downloads/sites/wp-includes/js/tinymce/plugins/paste/plugin.js",
+		"/Users/matt/www/mattschaller.github.io/404.html",
+		"/Users/matt/www/mattschaller.github.io/README.md",
+		"/Users/matt/www/mattschaller.github.io/Gemfile",
+		"/Users/matt/www/mattschaller.github.io/about.md",
+		"/Users/matt/www/mattschaller.github.io/_config.yml",
+		"/Users/matt/www/mattschaller.github.io/index.md",
+		"/Users/matt/Desktop/eth-remote.conf",
+		"/Users/matt/www/untitled folder/mattschaller.github.io/_config.yml",
+		"/Users/matt/www/mattschaller.github.io/index.html",
+		"/Users/matt/www/mattschaller.github.io/_posts/2017-11-14-welcome-to-jekyll.markdown",
+		"/Users/matt/www/home-assistant/configuration.yaml",
+		"/Users/matt/www/home-assistant/package.json",
+		"/Users/matt/www/home-assistant/.travis.yml",
+		"/Users/matt/www/home-assistant/secrets.yaml",
+		"/Users/matt/www/home-assistant/README.md",
+		"/Users/matt/www/home-assistant/Jenkinsfile",
+		"/Users/matt/www/home-assistant/build.sh",
+		"/Users/matt/www/gemthings/app.py",
+		"/Users/matt/.ssh/known_hosts",
+		"/Volumes/boot/ssh",
+		"/Users/matt/Downloads/connect_device_package/start.sh",
+		"/Users/matt/www/vindi/vindi/config/cms.php",
+		"/Users/matt/www/vindi/vindicators/public/theme/base-2016/login.twig",
+		"/Users/matt/www/vindi/vindicators/extensions/composer.json",
+		"/Users/matt/www/vindi/vindicators/app/config/extensions/auth.boltauth.yml",
+		"/Users/matt/www/vindi/vindicators/vendor/bolt/bolt/src/Provider/UploadServiceProvider.php",
+		"/Users/matt/www/vindi/vindicators/app/config/config.yml",
+		"/Users/matt/www/vindi/vindicators/composer.json",
+		"/Users/matt/www/vindi2/src/Auth/auth0-variables.js",
+		"/Users/matt/www/vindi2/src/Auth/Auth.js",
+		"/Users/matt/www/vindi2/src/Profile/Profile.js",
+		"/Users/matt/www/vindi2/src/routes.js",
+		"/Users/matt/www/vindi2/src/Home/Home.js",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/Default/Distraction Free.sublime-settings",
+		"/Users/matt/www/vindi/server/server.js",
+		"/Users/matt/www/vindi/server/dummyData.js",
+		"/Users/matt/www/vindi/src/App.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mattschaller.com.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 59.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
